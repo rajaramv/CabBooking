@@ -1,4 +1,4 @@
-package com.flipkart.cab;
+package com.rajaram.cab;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,9 +7,9 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 
-import com.flipkart.cabs.bean.Cab;
-import com.flipkart.cabs.service.CabTrackingService;
-import com.flipkart.cabs.service.OnboardingService;
+import com.rajaram.cabs.bean.Cab;
+import com.rajaram.cabs.service.CabTrackingService;
+import com.rajaram.cabs.service.OnboardingService;
 
 public class CabManagerDriver {
 	

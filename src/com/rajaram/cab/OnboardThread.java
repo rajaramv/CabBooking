@@ -1,9 +1,9 @@
-package com.flipkart.cab;
+package com.rajaram.cab;
 
 import java.util.concurrent.Callable;
 
-import com.flipkart.cabs.bean.Cab;
-import com.flipkart.cabs.service.OnboardingService;
+import com.rajaram.cabs.bean.Cab;
+import com.rajaram.cabs.service.OnboardingService;
 
 public class OnboardThread implements Callable<Boolean>{
 

@@ -1,4 +1,4 @@
-package com.flipkart.cabs.service;
+package com.rajaram.cabs.service;
 
 import java.util.Comparator;
 import java.util.HashMap;
@@ -6,11 +6,11 @@ import java.util.Map;
 import java.util.Queue;
 import java.util.concurrent.PriorityBlockingQueue;
 
-import com.flipkart.cab.exception.CabNotAvailableException;
-import com.flipkart.cab.exception.CabServiceExecption;
-import com.flipkart.cabs.bean.Cab;
-import com.flipkart.cabs.bean.CabStatusEnum;
-import com.flipkart.cabs.dao.CabDAO;
+import com.rajaram.cab.exception.CabNotAvailableException;
+import com.rajaram.cab.exception.CabServiceExecption;
+import com.rajaram.cabs.bean.Cab;
+import com.rajaram.cabs.bean.CabStatusEnum;
+import com.rajaram.cabs.dao.CabDAO;
 
 public class CabTrackingService {
 	

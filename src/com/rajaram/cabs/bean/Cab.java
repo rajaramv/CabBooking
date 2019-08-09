@@ -1,4 +1,4 @@
-package com.flipkart.cabs.bean;
+package com.rajaram.cabs.bean;
 
 public class Cab {
 

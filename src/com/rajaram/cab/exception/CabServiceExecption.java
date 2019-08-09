@@ -1,4 +1,4 @@
-package com.flipkart.cab.exception;
+package com.rajaram.cab.exception;
 
 public class CabServiceExecption extends Exception{
 	

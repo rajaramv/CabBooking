@@ -1,10 +1,10 @@
-package com.flipkart.cab;
+package com.rajaram.cab;
 
 import java.util.concurrent.Callable;
 
-import com.flipkart.cab.exception.CabServiceExecption;
-import com.flipkart.cabs.bean.Cab;
-import com.flipkart.cabs.service.CabTrackingService;
+import com.rajaram.cab.exception.CabServiceExecption;
+import com.rajaram.cabs.bean.Cab;
+import com.rajaram.cabs.service.CabTrackingService;
 
 public class BookingThread implements Callable<Cab>{
 	

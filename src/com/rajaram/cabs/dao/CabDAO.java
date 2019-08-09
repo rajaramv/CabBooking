@@ -1,12 +1,12 @@
-package com.flipkart.cabs.dao;
+package com.rajaram.cabs.dao;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.flipkart.cabs.bean.Cab;
-import com.flipkart.cabs.service.CabTrackingService;
+import com.rajaram.cabs.bean.Cab;
+import com.rajaram.cabs.service.CabTrackingService;
 
 public class CabDAO {
 	
